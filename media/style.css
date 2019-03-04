@@ -1,0 +1,42 @@
+h1{
+    font-size: 2.5em;
+    font-family: Arial Black;
+    text-align: center;
+    color: #ffd700;
+}
+h2{
+    font-family: 'Arial Black';
+    justify-items: center;
+    text-align: center;
+    color: #000000;
+}
+p{
+    font-family: 'Arial';
+    padding: 2em;
+    text-align: justify;
+    color: #ffd700;
+    font-size: 1.5em;
+}
+.section{
+    background-color:#022c43;
+    display: flex;
+    flex-flow: wrap;
+    border-radius: 30px ;
+
+    
+}
+.sectionintel{
+    
+    background-color: white;
+}
+.sectionamd{
+    background-color: white;
+}
+.article{
+    background-color: #053f5e;
+    border-radius: 30px;
+}
+.article1{
+    background-color: #115173;
+    border-radius: 30px;
+}
