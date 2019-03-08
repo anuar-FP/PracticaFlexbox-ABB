@@ -15,28 +15,35 @@ p{
     padding: 2em;
     text-align: justify;
     color: #ffd700;
-    font-size: 1.5em;
+    font-size: 1em;
 }
 .section{
     background-color:#022c43;
     display: flex;
     flex-flow: wrap;
-    border-radius: 30px ;
-
     
 }
 .sectionintel{
     
-    background-color: white;
+    background-color: #022c43;
+    align-content: space-around;
+  display: flex;
+  flex-flow: row;
+  border-radius: 30px;
 }
 .sectionamd{
-    background-color: white;
+    background-color: #022c43;
+    display: flex;
+    flex-flow: wrap;
+    border-radius: 30px;
 }
 .article{
     background-color: #053f5e;
     border-radius: 30px;
+    width: 50%;
 }
 .article1{
     background-color: #115173;
     border-radius: 30px;
+    width: 50%;
 }
